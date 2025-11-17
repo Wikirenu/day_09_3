@@ -1,0 +1,11 @@
+img{
+    float: left;
+}
+p{
+    text-align: justify;
+}
+footer{
+    clear:left;
+    text-align: center;
+    text-decoration: dashed;
+}
